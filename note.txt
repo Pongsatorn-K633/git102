@@ -2,3 +2,4 @@ Cubaris Sp. Rubber Ducky
 Commit before
 
 Don't forget to change the ice bottle to maintain the temperature
+Already update CSS and JS
